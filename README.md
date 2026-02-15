@@ -30,4 +30,41 @@ The Pizza Sales Dashboard project is developed using Power BI to analyze pizza s
 • Optimize inventory and pricing strategies.
 
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Project_Documentation.docx"> Project Overview </a>
+<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/Pizza_Sales_Dashboard_Project_Documentation.docx"> Project Overview </a>
+
+
+# Data Transformation Process
+
+Power BI
+
+• Data Modeling using relationships between tables.
+
+• DAX for calculated measures (Revenue, Orders, AOV, etc.).
+
+• Interactive dashboards with slicers and filters.
+
+• KPI Cards, Bar Charts, Line Charts, Pie Charts.
+
+• Drill-through and tooltips for detailed insights.
+
+Microsoft Excel
+
+• Data cleaning and formatting.
+
+• Removing duplicates and handling missing values.
+
+• Basic calculations and validation.
+
+• Exporting structured data for MySQL import.
+
+MySQL
+
+• Database creation and table structuring.
+
+• Data storage and management.
+
+• SQL queries for data extraction.
+
+• Data aggregation for reporting purposes.
+
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Business_Requirements_Document.docx"> Business Requirements </a>
