@@ -67,4 +67,19 @@ MySQL
 
 • Data aggregation for reporting purposes.
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Business_Requirements_Document.docx"> Business Requirements </a>
+<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx"> Business Requirements </a>
+
+# Power Bi DashBoard
+
+• System should display total revenue, total orders, and total pizzas sold.
+
+• Dashboard should filter data by date, category, and pizza size.
+
+• Show top 5 and bottom 5 pizzas by revenue and quantity.
+
+• Display daily and monthly sales trends.
+
+• Provide category-wise and size-wise sales breakdown.
+
+
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/E-Commerce%20File.pbix"> PowerBI File </a>
