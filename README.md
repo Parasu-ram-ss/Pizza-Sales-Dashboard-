@@ -14,4 +14,20 @@ The Pizza Sales Dashboard project is developed using Power BI to analyze pizza s
 
 • Data refresh frequency: Daily.
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ecommerce_data.csv"> dataset </a>
+<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/pizza_sales_excel_file.xlsx"> dataset </a>
+
+
+# Project Overview
+
+• Monitor total revenue, total orders, and total quantity sold.
+
+• Identify best-selling and least-selling pizzas.
+
+• Analyze sales trends by day, month, and category.
+
+• Improve decision-making through interactive dashboards.
+
+• Optimize inventory and pricing strategies.
+
+
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Project_Documentation.docx"> Project Overview </a>
