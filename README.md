@@ -81,5 +81,14 @@ MySQL
 
 • Provide category-wise and size-wise sales breakdown.
 
+<img width="1428" height="809" alt="Screenshot 2026-02-15 122424" src="https://github.com/user-attachments/assets/dd494df4-d932-461b-aba6-83d9cae2fce0" />
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/E-Commerce%20File.pbix"> PowerBI File </a>
+<img width="1429" height="803" alt="Screenshot 2026-02-15 122439" src="https://github.com/user-attachments/assets/f0de8184-db18-4068-ad9f-5bb7c7829952" />
+
+
+
+<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard.pbix"> PowerBI File </a>
+
+
+
+
